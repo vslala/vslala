@@ -1,3 +1,5 @@
+### Hi there :wave: 
+
 ### I'm Varun (my friends call me Lala)
 
 I am a Full Stack Developer at ThoughtWorks with 4 years of experience in building enterprise software systems in finance and retail domain. Experienced in design, development, and deployment of scalable software. Highly dependable and enthusiastic team player who loves contributing to open source and developing software with best practices.
